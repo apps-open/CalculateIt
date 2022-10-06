@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/CalculateIt.dir/CalculateIt_autogen/mocs_compilation.cpp.o CMakeFiles/CalculateIt.dir/main.cpp.o CMakeFiles/CalculateIt.dir/mainwindow.cpp.o -o CalculateIt  /usr/lib/libQt6Widgets.so.6.3.1 /usr/lib/libQt6Gui.so.6.3.1 /usr/lib/libQt6Core.so.6.3.1 /usr/lib/libGLX.so /usr/lib/libOpenGL.so 

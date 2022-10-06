@@ -1,0 +1,8 @@
+/home/nemo/Places/Projects/QtCreator/CalculateIt/build/CMakeFiles/CalculateIt.dir
+/home/nemo/Places/Projects/QtCreator/CalculateIt/build/CMakeFiles/edit_cache.dir
+/home/nemo/Places/Projects/QtCreator/CalculateIt/build/CMakeFiles/rebuild_cache.dir
+/home/nemo/Places/Projects/QtCreator/CalculateIt/build/CMakeFiles/list_install_components.dir
+/home/nemo/Places/Projects/QtCreator/CalculateIt/build/CMakeFiles/install.dir
+/home/nemo/Places/Projects/QtCreator/CalculateIt/build/CMakeFiles/install/local.dir
+/home/nemo/Places/Projects/QtCreator/CalculateIt/build/CMakeFiles/install/strip.dir
+/home/nemo/Places/Projects/QtCreator/CalculateIt/build/CMakeFiles/CalculateIt_autogen.dir
